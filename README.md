@@ -1,4 +1,4 @@
-#3 CUBO DE RUBIK
+## CUBO DE RUBIK
 ![](https://github.com/camilo1962/Cuborubik/blob/main/Assets/Graficos/IconoCubo.png)
 
 
